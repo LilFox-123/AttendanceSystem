@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe.config
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+C:\Users\Admin\source\repos\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
