@@ -1,0 +1,24 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+TestResult*/
+*.user
+*.suo
+*.cache
+*.log
+*.ide
+*.userosscache
+*.ilk
+*.pdb
+*.opendb
+*.VC.db
+# NuGet
+packages/
+*.nupkg
+# Build artifacts
+[Oo]ut/
+[Bb]uild/
+# Rider/JetBrains
+.idea/
+*.sln.iml
